@@ -19,7 +19,7 @@ excecutable is called ```load_balance.pl```\
 configuration is stored  in /etc/network/balance.conf\
 read instructions and modify balance.conf\
 ```load_balance.pl```\
-## Test functioning of load balance\
+## Test functioning of load balance
 run following command reapeatedly\
 ```traceroute google.com```\
 Notice how different route is taken everytime\
