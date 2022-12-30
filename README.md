@@ -8,4 +8,5 @@ It may give error because  ```make``` is not installed\
 ```apt install make```\
 ```cpan Module::Build```\
 ```perl ./Build.PL```\
+a script named "Build" is added in installation folder
 ```perl Build installdeps```\
