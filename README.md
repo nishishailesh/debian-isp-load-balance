@@ -1,5 +1,5 @@
 # debian-isp-load-balance
-##Help for seting up 2 ISP in a debian PC/server\
+## Install Net-ISP-Balance\
 ```git pull https://github.com/lstein/Net-ISP-Balance```\
 ```perl ./Build.PL```\
 It may give error because Module::Build is not installed\
