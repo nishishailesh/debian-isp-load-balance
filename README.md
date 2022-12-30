@@ -10,3 +10,5 @@ It may give error because  ```make``` is not installed\
 ```perl ./Build.PL```\
 a script named "Build" is added in installation folder
 ```perl Build installdeps```\
+```./Build test```
+```./Build install```
