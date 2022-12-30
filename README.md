@@ -1,4 +1,11 @@
 # debian-isp-load-balance
+## Use
+It is useful if server have two ISP connection at different interfaces and third interface is connected to local LAN (where server distributes internet)\
+e.g 
+eth0 connected to ISP1\
+eth1 connected to ISP2\
+eth3 connected to LAN\
+
 ## Install Net-ISP-Balance
 ```git pull https://github.com/lstein/Net-ISP-Balance```\
 ```perl ./Build.PL```\
